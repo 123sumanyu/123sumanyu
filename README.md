@@ -1,152 +1,136 @@
-<h1 align="center">Hi 👋, I'm Sumanyu Singh</h1>
+<!-- 🟦 ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D423,100:FF4E50&height=220&text=Sumanyu%20Singh&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!-- 🎯 ANIMATED SUBTITLE -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=3000&pause=1000&color=3CB4F2&center=true&vCenter=true&width=520&lines=Aspiring+Data+Scientist;AI%2FML+Engineer;Computer+Vision+%7C+NLP;CSE+Student+%40+Chandigarh+University" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=550&height=60&color=00C0FF&lines=Aspiring+Data+Scientist;AI%2FML+Engineer;Computer+Vision+%7C+NLP+Developer;CSE+Student+%40+Chandigarh+University;Innovator+%7C+4x+Patent+Applicant" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=123sumanyu&label=Profile%20Views&color=0e75b6&style=flat" alt="123sumanyu" />
+  <img src="https://komarev.com/ghpvc/?username=123sumanyu&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## 🔥 About Me  
+# 🔥 About Me  
 Detail-oriented **Computer Science Engineer (CGPA: 8.90)** with hands-on experience in  
-**Python, Machine Learning, NLP, Computer Vision, AWS, and Automation**.
+**Machine Learning, NLP, Deep Learning, Computer Vision, Automation, and AWS.**
 
-Designed real-time AI systems such as an **interview cheating detection pipeline**  
-(CV + Audio + NLP based).  
-
-Filed **4 patents**, won hackathons, and built several AI-driven applications.  
-Focused on scalable ML pipelines, automation, and full-stack AI solutions.
+✔ Designed a real-time **Interview Cheating Detection AI System**  
+✔ Filed **4 Patent Applications**  
+✔ Built projects in AI, NLP, Robotics & Automation  
+✔ Strong in Python, ML Pipelines, and Data Processing  
 
 📧 **Email:** *sumanyusingh7689@gmail.com*  
-🌐 **Portfolio / LinkedIn / GitHub / LeetCode**
+🔗 **LinkedIn:** https://www.linkedin.com/in/sumanyu-singh-a4bb57281/  
+🔗 **LeetCode:** https://leetcode.com/u/Sumanyusingh/
 
 ---
 
-## 🚀 Experience
+# 🚀 Experience
 
-### **AI/ML Intern — Primus Creo (Remote)**  
+## 🧠 AI/ML Intern — **Primus Creo (Remote)**
 📅 *April 2025 – September 2025*  
-- Cleaned, curated, and prepared large datasets for ML pipelines.  
-- Developed automation & preprocessing scripts using Python.  
-- Assisted in training/testing ML models for prediction & classification.  
-- Implemented feature engineering to improve model performance.  
-- Integrated ML components into internal workflows.
+- Cleaned, curated, and prepared datasets for ML pipelines.  
+- Built automation scripts using Python.  
+- Developed prediction & classification models.  
+- Implemented feature engineering for accuracy improvement.
 
-### **AI Intern — HRFY.ai (Onsite, Punjab)**  
+---
+
+## 🤖 AI Intern — **HRFY.ai (Onsite, Punjab)**
 📅 *September 2025 – Present*  
-- Core team member designing the **end-to-end interview cheating detection system**.  
-- Developed modules for:  
-  ✔ Face spoofing  
-  ✔ Multi-person detection  
-  ✔ Lip-sync mismatch  
-  ✔ Mobile usage detection  
-  ✔ Scripted / AI-generated answer detection  
-- Built CV, audio & NLP pipelines using **YOLO, InsightFace, Transformers**.  
-- Developed robust preprocessing for video, audio & text inputs.
+- Core developer for the **Interview Cheating Detection System**.  
+- Built modules for:  
+  ✔ Face Spoofing  
+  ✔ Multi-person Detection  
+  ✔ Lip-sync Mismatch  
+  ✔ AI-generated Answer Detection  
+- Technologies: **YOLO, InsightFace, Transformers, Python Pipelines**  
+- Built audio, video, and text preprocessing for real-time monitoring.
 
 ---
 
-## 🧪 Patent Filings (Application Numbers)
-Here are the patents you have officially filed:
-
-- 📄 **202511032835**  
-- 📄 **202511006784**  
-- 📄 **202511095020**  
-- 📄 **202511099581**
-
-*(These will be added to Google Patent Listing once published.)*
+# 🧪 Patent Filings  
+📄 **202511032835**  
+📄 **202511006784**  
+📄 **202511095020**  
+📄 **202511099581**
 
 ---
 
-## 📌 Featured Projects  
+# 📌 Featured Projects  
 
-### ⭐ Sentiment Analysis on Restaurant Reviews  
+## ⭐ **Sentiment Analysis on Restaurant Reviews**
 📅 *Nov 2024 – Dec 2024*  
-- Built binary sentiment classifier for customer reviews.  
-- Performed preprocessing: tokenization, lemmatization, TF-IDF.  
-- Trained SVM classifier achieving **84% accuracy**.  
-- **Tech Used:** Python, NLTK, Scikit-learn, TF-IDF, Pandas  
-🔗 GitHub: https://github.com/123sumanyu/sentiment-analysics
+- Binary sentiment classifier  
+- NLP preprocessing: tokenization, lemmatization, TF-IDF  
+- Achieved **84% accuracy (SVM)**  
+🔗 https://github.com/123sumanyu/sentiment-analysics
 
 ---
 
-### ⭐ AI Career Finder — ML-based Career Recommendation System  
-🔗 GitHub: https://github.com/123sumanyu/ai-carrier-finder-  
-- Suggests personalized career paths using NLP + ML.  
-- Extracts user skills and maps them to ideal domain tracks.  
-- Built with Python, Flask, ML classifiers, and text processing.
+## ⭐ **AI Career Finder — ML-based Career Recommendation System**
+🔗 https://github.com/123sumanyu/ai-carrier-finder-  
+- Predicts career paths from user skills  
+- Built using ML + NLP + Flask  
 
 ---
 
-### 🤖 ASTRA — Agri Smart Tech Robotic Automation  
+## 🤖 **ASTRA — Agri Smart Tech Robotic Automation**
 📅 *Aug 2025 – Nov 2025*  
-- Contributed to a smart farming robot for **targeted pesticide spraying**.  
-- Assembled hardware components & managed the database.  
-- Python used for **live video feed** & **image detection**.  
-- Enabled precision spraying workflow for agricultural efficiency.
+- Smart farming robot for targeted pesticide spraying  
+- Used Python for real-time video feed & detection  
+- Managed backend database + robotic assembly  
 
 ---
 
-### 🩸 Blood Donation & Receiver Management System (C Programming)  
-🔗 GitHub: https://github.com/123sumanyu/Blood-Donation-and-Receiver-mangement-System-using-C-programming-  
-- Console-based donor/receiver management system.  
-- Implemented using C structures + file handling.  
-- Features include search, update, match, and record management.
+## 🩸 Blood Donation & Receiver Management (C Programming)
+🔗 https://github.com/123sumanyu/Blood-Donation-and-Receiver-mangement-System-using-C-programming-  
+- Donor & receiver tracking system  
+- Built using file handling + C structures  
 
 ---
 
-## 🏆 Achievements & Certifications  
-- Semi-finalist — **SIH 2025**  
-- Winner — **ANVESHA Research Summit**  
-- Winner — **Project Expo 2025**  
-- Filed **4 Patents**  
-- NPTEL — Cloud Computing  
-- AWS & Cloud Computing Certification (NIELIT)  
-- Python Developer Certification (NIELIT)
-
----
-
-## 🛠️ Technical Skills
+# 🛠️ Skills  
 
 ### **Languages**  
 Python • C++ • Java (Basic)
 
-### **Data Science & ML**  
+### **ML & Data Science**  
 Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow  
-NLP (NLTK, SpaCy) • YOLO • Transformers  
-AWS Sagemaker • AWS CloudFront
+NLP • Transformers • YOLO • Computer Vision  
 
 ### **Databases**  
-MySQL • SQL
+MySQL • SQL  
 
-### **Tools & Platforms**  
-GitHub • AWS • Linux • Flask • OpenCV
+### **Tools / Platforms**  
+GitHub • AWS • Flask • Linux • OpenCV
 
 ---
 
-## 🤝 Connect With Me  
-
-
+# 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/sumanyu-singh-a4bb57281/">LinkedIn</a> |
-<a href="https://leetcode.com/u/Sumanyusingh/">LeetCode</a>
+<a href="https://www.linkedin.com/in/sumanyu-singh-a4bb57281/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
+<a href="https://github.com/123sumanyu"><img src="https://skillicons.dev/icons?i=github" width="45"></a>
+<a href="https://leetcode.com/u/Sumanyusingh/"><img src="https://skillicons.dev/icons?i=leetcode" width="45"></a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools  
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+# 📊 GitHub Stats & Animations  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123sumanyu&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123sumanyu&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=123sumanyu&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<!-- 🐍 Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
