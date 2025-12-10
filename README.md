@@ -2,7 +2,7 @@
 
 <!-- 🎯 ANIMATED SUBTITLE -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=3000&pause=1000&color=3CB4F2&center=true&vCenter=true&width=520&lines=Aspiring+Data+Scientist;AI%2FML+Engineer;Computer+Vision+%7C+NLP+Practitioner;CSE+Student+%40+Chandigarh+University" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=3000&pause=1000&color=3CB4F2&center=true&vCenter=true&width=520&lines=Aspiring+Data+Scientist;AI%2FML+Engineer;Computer+Vision+%7C+NLP;CSE+Student+%40+Chandigarh+University" />
 </h3>
 
 <p align="center">
@@ -133,7 +133,6 @@ GitHub • AWS • Linux • Flask • OpenCV
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sumanyu-singh-a4bb57281/">LinkedIn</a> |
-<a href="https://github.com/123sumanyu">GitHub</a> |
 <a href="https://leetcode.com/u/Sumanyusingh/">LeetCode</a>
 </p>
 
