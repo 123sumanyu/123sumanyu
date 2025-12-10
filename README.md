@@ -129,12 +129,12 @@ GitHub • AWS • Linux • Flask • OpenCV
 ---
 
 ## 🤝 Connect With Me  
-(Add your real links)
+
 
 <p align="left">
-<a href="https://linkedin.com/">LinkedIn</a> |
+<a href="www.linkedin.com/in/sumanyu-singh-a4bb57281/">LinkedIn</a> |
 <a href="https://github.com/123sumanyu">GitHub</a> |
-<a href="https://leetcode.com/">LeetCode</a>
+<a href="https://leetcode.com/u/Sumanyusingh/">LeetCode</a>
 </p>
 
 ---
