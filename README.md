@@ -11,6 +11,22 @@
   <img src="https://komarev.com/ghpvc/?username=123sumanyu&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
 </p>
 
+<!-- 🎓 RESUME + CONTACT BUTTONS -->
+<p align="center">
+  <!-- 🔽 Replace the href link below with your actual resume link in your repo or Google Drive -->
+  <a href="https://github.com/123sumanyu/123sumanyu/raw/main/Resume_Sumanyu_Singh.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF4E50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+  &nbsp;
+  <a href="mailto:sumanyusingh7689@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=450&lines=👇+Scroll+down+to+explore+my+projects+%26+stats+👇" />
+</p>
+
 ---
 
 # 🔥 About Me  
@@ -60,6 +76,11 @@ Detail-oriented **Computer Science Engineer (CGPA: 8.90)** with hands-on experie
 
 ---
 
+<!-- 🌊 SECOND WAVE SEPARATOR FOR SCROLL EFFECT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D976C,100:93F9B9&height=80&section=footer&text=Projects%20&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 📌 Featured Projects  
 
 ## ⭐ **Sentiment Analysis on Restaurant Reviews**
@@ -86,12 +107,17 @@ Detail-oriented **Computer Science Engineer (CGPA: 8.90)** with hands-on experie
 
 ---
 
-## 🩸 Blood Donation & Receiver Management (C Programming)
+## 🩸 **Blood Donation & Receiver Management (C Programming)**
 🔗 https://github.com/123sumanyu/Blood-Donation-and-Receiver-mangement-System-using-C-programming-  
 - Donor & receiver tracking system  
 - Built using file handling + C structures  
 
 ---
+
+<!-- ✨ ANIMATED SKILLS TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=400&lines=Tech+Stack+%26+Tools;Always+learning+something+new...;Building+AI-powered+solutions" />
+</p>
 
 # 🛠️ Skills  
 
