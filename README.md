@@ -112,16 +112,4 @@ GitHub • AWS Services • Linux • Flask • OpenCV
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=123sumanyu&show_icons=true&layout=compact" height="180px"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=123sumanyu&show_icons=true" height="180px"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=123sumanyu" />
-</p>
