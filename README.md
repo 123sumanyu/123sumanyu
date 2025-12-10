@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumanyu Singh</h1>
-<h3 align="center">Aspiring Data Scientist & AI/ML Engineer | CSE @ Chandigarh University</h3>
+
+<!-- 🎯 ANIMATED SUBTITLE -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=3000&pause=1000&color=3CB4F2&center=true&vCenter=true&width=520&lines=Aspiring+Data+Scientist;AI%2FML+Engineer;Computer+Vision+%7C+NLP+Practitioner;CSE+Student+%40+Chandigarh+University" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=123sumanyu&label=Profile%20Views&color=0e75b6&style=flat" alt="123sumanyu" />
@@ -9,13 +13,13 @@
 
 ## 🔥 About Me
 Detail-oriented **Computer Science Engineer (CGPA: 8.90)** with hands-on experience in  
-**Python, Machine Learning, NLP, Computer Vision, AWS, and Automation**.  
+**Python, Machine Learning, NLP, Computer Vision, AWS, and Automation**.
 
 I have worked on **real-time interview cheating detection systems** using  
-YOLO, InsightFace, Transformers, and NLP pipelines during my internships.  
+YOLO, InsightFace, Transformers, and NLP pipelines during my internships.
 
 Also filed **5 patents** and won multiple hackathons & project competitions.  
-Actively building AI-driven applications and end-to-end ML systems.  
+Actively building AI-driven applications and end-to-end ML systems.
 
 📧 **Email:** *sumanyusingh7689@gmail.com*  
 🌐 **Portfolio / LinkedIn / GitHub / LeetCode** – (Add your links)
@@ -111,5 +115,3 @@ GitHub • AWS Services • Linux • Flask • OpenCV
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
 </p>
-
-
