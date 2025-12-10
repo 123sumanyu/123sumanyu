@@ -132,7 +132,7 @@ GitHub • AWS • Linux • Flask • OpenCV
 
 
 <p align="left">
-<a href="www.linkedin.com/in/sumanyu-singh-a4bb57281/">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/sumanyu-singh-a4bb57281/">LinkedIn</a> |
 <a href="https://github.com/123sumanyu">GitHub</a> |
 <a href="https://leetcode.com/u/Sumanyusingh/">LeetCode</a>
 </p>
