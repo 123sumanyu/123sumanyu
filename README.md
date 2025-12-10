@@ -1,23 +1,127 @@
-<h1 align="center">Hi 👋, I'm Sumanyu singh</h1>
-<h3 align="center">A passionate Data scientist from india</h3>
+<h1 align="center">Hi 👋, I'm Sumanyu Singh</h1>
+<h3 align="center">Aspiring Data Scientist & AI/ML Engineer | CSE @ Chandigarh University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=123sumanyu&label=Profile%20views&color=0e75b6&style=flat" alt="123sumanyu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123sumanyu" alt="123sumanyu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **sumanyusingh7689@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=123sumanyu&label=Profile%20Views&color=0e75b6&style=flat" alt="123sumanyu" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=123sumanyu&show_icons=true&locale=en&layout=compact" alt="123sumanyu" /></p>
+## 🔥 About Me
+Detail-oriented **Computer Science Engineer (CGPA: 8.90)** with hands-on experience in  
+**Python, Machine Learning, NLP, Computer Vision, AWS, and Automation**.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=123sumanyu&show_icons=true&locale=en" alt="123sumanyu" /></p>
+I have worked on **real-time interview cheating detection systems** using  
+YOLO, InsightFace, Transformers, and NLP pipelines during my internships.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=123sumanyu&" alt="123sumanyu" /></p>
+Also filed **5 patents** and won multiple hackathons & project competitions.  
+Actively building AI-driven applications and end-to-end ML systems.  
+
+📧 **Email:** *sumanyusingh7689@gmail.com*  
+🌐 **Portfolio / LinkedIn / GitHub / LeetCode** – (Add your links)
+
+---
+
+## 🚀 Experience
+
+### **AI/ML Intern — Primus Creo (Remote)**  
+📅 *April 2025 – September 2025*  
+- Cleaned, curated, and prepared large datasets for ML pipelines.  
+- Developed automation & preprocessing scripts using Python.  
+- Assisted in training/testing ML models for prediction & classification.  
+- Implemented feature engineering to improve model performance.  
+- Integrated ML components into internal workflows.
+
+### **AI Intern — HRFY.ai (Onsite, Punjab)**  
+📅 *September 2025 – Present*  
+- Core team member building **end-to-end interview cheating detection system**.  
+- Designed CV, Audio & NLP-based cheating-detection pipeline.  
+- Built modules for:  
+  ✔ Face spoofing  
+  ✔ Multi-person detection  
+  ✔ Lip-sync mismatch  
+  ✔ Mobile usage tracking  
+  ✔ Scripted / AI-generated answer detection  
+- Used **YOLO, InsightFace, Transformers, Custom Python Pipelines**.  
+- Created robust preprocessing systems for video, audio & text data.
+
+---
+
+## 📌 Featured Project
+
+### **⭐ Sentiment Analysis on Restaurant Reviews**
+📅 *Nov 2024 – Dec 2024*  
+- Built binary sentiment classifier for customer reviews.  
+- Performed preprocessing: tokenization, lemmatization, TF-IDF.  
+- Trained SVM classifier achieving **84% accuracy**.  
+- **Tech Used:** Python, NLTK, Scikit-learn, TF-IDF, Pandas  
+🔗 GitHub: https://github.com/123sumanyu/sentiment-analysics
+
+---
+
+## 🏆 Achievements & Certifications
+- Semi-finalist — **SIH 2025**  
+- Winner — **ANVESHA Research Summit**  
+- Winner — **Project Expo 2025**  
+- **Filed 5 Patents**  
+- NPTEL Certification — Cloud Computing  
+- AWS & Cloud Computing (NIELIT)  
+- Python Developer Certification (NIELIT)
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages**
+Python • C++ • Java (Basic)
+
+### **Data Science & ML**
+Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow  
+NLP (NLTK, SpaCy) • YOLO • Transformers  
+AWS Sagemaker • AWS CloudFront
+
+### **Databases**
+MySQL • SQL
+
+### **Tools & Platforms**
+GitHub • AWS Services • Linux • Flask • OpenCV
+
+---
+
+## 🤝 Connect With Me  
+(Add your real links)
+
+<p align="left">
+<a href="https://linkedin.com/">LinkedIn</a> |
+<a href="https://github.com/123sumanyu">GitHub</a> |
+<a href="https://leetcode.com/">LeetCode</a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=123sumanyu&show_icons=true&layout=compact" height="180px"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=123sumanyu&show_icons=true" height="180px"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=123sumanyu" />
+</p>
