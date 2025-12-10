@@ -14,7 +14,7 @@
 <!-- 🎓 RESUME + CONTACT BUTTONS -->
 <p align="center">
   <!-- 🔽 Replace the href link below with your actual resume link in your repo or Google Drive -->
-  <a href="https://github.com/123sumanyu/123sumanyu/raw/main/Resume_Sumanyu_Singh.pdf" target="_blank">
+  <a href="https://github.com/123sumanyu/123sumanyu/raw/main/sumanyu.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-FF4E50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
   &nbsp;
